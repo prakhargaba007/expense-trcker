@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/expense-trcker/static/css/main.1889609a.css",
+    "main.js": "/expense-trcker/static/js/main.099ed064.js",
+    "static/js/787.28cb0dcd.chunk.js": "/expense-trcker/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/expense-trcker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/expense-trcker/index.html",
+    "main.1889609a.css.map": "/expense-trcker/static/css/main.1889609a.css.map",
+    "main.099ed064.js.map": "/expense-trcker/static/js/main.099ed064.js.map",
+    "787.28cb0dcd.chunk.js.map": "/expense-trcker/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1889609a.css",
+    "static/js/main.099ed064.js"
+  ]
+}
