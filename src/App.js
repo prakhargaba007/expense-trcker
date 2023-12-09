@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Expense from "./Component/Expense/Expense";
 import expense_dummy from "./Component/Expense/list";
